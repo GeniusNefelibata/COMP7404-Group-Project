@@ -1,0 +1,10 @@
+{
+  "dataset": "cifar10",
+  "temperature": 100,
+  "seed": 42,
+  "teacher_path": "./ckpt/teacher_cifar10_T100.pth",
+  "soft_labels_path": "./ckpt/soft_labels_cifar10_T100/soft_labels.pt",
+  "distilled_path": "./ckpt/distilled_cifar10_T100.pth",
+  "final_accuracy": 40.83,
+  "timestamp": "2026-03-06T15:32:13.059123"
+}

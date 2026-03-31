@@ -1,0 +1,6 @@
+Dataset: cifar10
+Temperature: 100
+Best accuracy: 71.84%
+Device: cuda
+Seed: 42
+Warmup epochs: 10

@@ -1,0 +1,5 @@
+Dataset: mnist
+Temperature: 100
+Best accuracy: 99.26%
+Device: cuda
+Seed: 42

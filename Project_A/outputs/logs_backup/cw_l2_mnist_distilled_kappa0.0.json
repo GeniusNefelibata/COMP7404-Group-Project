@@ -1,0 +1,112 @@
+[
+  {
+    "image_idx": 0,
+    "true_label": 4,
+    "target_label": 7,
+    "pred_label": 7,
+    "success": true,
+    "l2_distance": 2.5268834445160286,
+    "best_c": 0.010703125,
+    "time_seconds": 20.605376720428467,
+    "confidence": 0.0
+  },
+  {
+    "image_idx": 1,
+    "true_label": 2,
+    "target_label": 3,
+    "pred_label": 3,
+    "success": true,
+    "l2_distance": 1.107005476668404,
+    "best_c": 0.010703125,
+    "time_seconds": 20.797013759613037,
+    "confidence": 0.0
+  },
+  {
+    "image_idx": 2,
+    "true_label": 9,
+    "target_label": 7,
+    "pred_label": 7,
+    "success": true,
+    "l2_distance": 1.0475304103433833,
+    "best_c": 0.010703125,
+    "time_seconds": 20.754745960235596,
+    "confidence": 0.0
+  },
+  {
+    "image_idx": 3,
+    "true_label": 0,
+    "target_label": 4,
+    "pred_label": 4,
+    "success": true,
+    "l2_distance": 4.155235224009069,
+    "best_c": 0.010703125,
+    "time_seconds": 21.349074840545654,
+    "confidence": 0.0
+  },
+  {
+    "image_idx": 4,
+    "true_label": 7,
+    "target_label": 8,
+    "pred_label": 8,
+    "success": true,
+    "l2_distance": 1.473069757745604,
+    "best_c": 0.010703125,
+    "time_seconds": 20.942758321762085,
+    "confidence": 0.0
+  },
+  {
+    "image_idx": 0,
+    "true_label": 5,
+    "target_label": 9,
+    "pred_label": 9,
+    "success": true,
+    "l2_distance": 2.759432827266908,
+    "best_c": 0.1140625,
+    "time_seconds": 21.22793674468994,
+    "confidence": 0.0
+  },
+  {
+    "image_idx": 1,
+    "true_label": 5,
+    "target_label": 7,
+    "pred_label": 7,
+    "success": true,
+    "l2_distance": 4.4623991113365715,
+    "best_c": 0.010703125,
+    "time_seconds": 20.73190212249756,
+    "confidence": 0.0
+  },
+  {
+    "image_idx": 2,
+    "true_label": 1,
+    "target_label": 6,
+    "pred_label": 6,
+    "success": true,
+    "l2_distance": 2.778906102431162,
+    "best_c": 0.1140625,
+    "time_seconds": 21.340400218963623,
+    "confidence": 0.0
+  },
+  {
+    "image_idx": 3,
+    "true_label": 5,
+    "target_label": 1,
+    "pred_label": 1,
+    "success": true,
+    "l2_distance": 4.949642846680191,
+    "best_c": 0.1140625,
+    "time_seconds": 21.236565828323364,
+    "confidence": 0.0
+  },
+  {
+    "image_idx": 4,
+    "true_label": 2,
+    "target_label": 0,
+    "pred_label": 0,
+    "success": true,
+    "l2_distance": 1.8448232985860682,
+    "best_c": 0.010703125,
+    "time_seconds": 20.57913565635681,
+    "confidence": 0.0
+  }
+]

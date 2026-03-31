@@ -1,0 +1,112 @@
+[
+  {
+    "image_idx": 0,
+    "true_label": 0,
+    "target_label": 1,
+    "pred_label": 1,
+    "success": true,
+    "l2_distance": 2.548892105878008,
+    "best_c": 0.010703125,
+    "time_seconds": 25.46664047241211,
+    "confidence": 0.0
+  },
+  {
+    "image_idx": 1,
+    "true_label": 2,
+    "target_label": 1,
+    "pred_label": 1,
+    "success": true,
+    "l2_distance": 2.663145561935663,
+    "best_c": 0.010703125,
+    "time_seconds": 25.405858993530273,
+    "confidence": 0.0
+  },
+  {
+    "image_idx": 2,
+    "true_label": 4,
+    "target_label": 3,
+    "pred_label": 3,
+    "success": true,
+    "l2_distance": 1.5054532900037711,
+    "best_c": 0.010703125,
+    "time_seconds": 26.307450771331787,
+    "confidence": 0.0
+  },
+  {
+    "image_idx": 3,
+    "true_label": 6,
+    "target_label": 8,
+    "pred_label": 8,
+    "success": true,
+    "l2_distance": 2.4163728294195073,
+    "best_c": 0.010703125,
+    "time_seconds": 26.07275080680847,
+    "confidence": 0.0
+  },
+  {
+    "image_idx": 4,
+    "true_label": 8,
+    "target_label": 0,
+    "pred_label": 0,
+    "success": true,
+    "l2_distance": 0.35425595485659955,
+    "best_c": 0.00103515625,
+    "time_seconds": 25.977697610855103,
+    "confidence": 0.0
+  },
+  {
+    "image_idx": 0,
+    "true_label": 4,
+    "target_label": 5,
+    "pred_label": 5,
+    "success": true,
+    "l2_distance": 2.301219749438345,
+    "best_c": 0.010703125,
+    "time_seconds": 24.80483055114746,
+    "confidence": 0.0
+  },
+  {
+    "image_idx": 1,
+    "true_label": 5,
+    "target_label": 2,
+    "pred_label": 2,
+    "success": true,
+    "l2_distance": 7.489038098881681e-07,
+    "best_c": 1.953125e-06,
+    "time_seconds": 27.302683115005493,
+    "confidence": 0.0
+  },
+  {
+    "image_idx": 2,
+    "true_label": 0,
+    "target_label": 4,
+    "pred_label": 4,
+    "success": true,
+    "l2_distance": 1.621431540719945,
+    "best_c": 0.010703125,
+    "time_seconds": 25.578038930892944,
+    "confidence": 0.0
+  },
+  {
+    "image_idx": 3,
+    "true_label": 5,
+    "target_label": 8,
+    "pred_label": 8,
+    "success": true,
+    "l2_distance": 1.940046175574333,
+    "best_c": 0.010703125,
+    "time_seconds": 25.431062936782837,
+    "confidence": 0.0
+  },
+  {
+    "image_idx": 4,
+    "true_label": 2,
+    "target_label": 6,
+    "pred_label": 6,
+    "success": true,
+    "l2_distance": 1.4585409652402415,
+    "best_c": 0.010703125,
+    "time_seconds": 26.22382116317749,
+    "confidence": 0.0
+  }
+]

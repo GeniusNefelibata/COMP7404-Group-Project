@@ -1,0 +1,6 @@
+Dataset: mnist
+Temperature: 100
+Best accuracy (T=1): 9.80%
+Device: cuda
+Seed: 42
+Soft labels path: ./ckpt/soft_labels_mnist_T100/soft_labels.pt
