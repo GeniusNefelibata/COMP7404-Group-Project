@@ -1,0 +1,24 @@
+[package]
+name = "cw-l2-attack"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+burn = { version = "0.20.1", default-features = false, features = ["ndarray", "wgpu", "autodiff", "std", "train"] }
+burn-ndarray = { version = "0.20.1", default-features = false, features = ["std"] }
+burn-core = { version = "0.20.1", default-features = false }
+burn-dataset = { version = "0.20.1", default-features = false, features = ["vision"] }
+burn-optim = { version = "0.20.1", default-features = false }
+clap = { version = "4.5", features = ["derive"] }
+serde = { version = "1.0", features = ["derive"] }
+anyhow = "1.0"
+image = { version = "0.25", default-features = false, features = ["png", "jpeg"] }
+rand = "0.8"
+chrono = "0.4"
+bytemuck = "1.14"
+
+# For loading PyTorch checkpoints
+burn-store = { version = "0.20.1", default-features = false, features = ["pytorch", "std"] }
+
+[dev-dependencies]
+burn = { version = "0.20.1", default-features = false, features = ["ndarray", "autodiff", "std"] }
